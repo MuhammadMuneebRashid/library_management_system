@@ -73,6 +73,11 @@ This project helped me practice:
 
 Muneeb
 
+<img width="1920" height="1080" alt="sum 2" src="https://github.com/user-attachments/assets/de1a16de-f689-4f75-bb2e-0b263478ce54" />
+<img width="1920" height="1080" alt="sum" src="https://github.com/user-attachments/assets/06dc952c-4488-4a70-a338-73fc929ba569" />
+<img width="1920" height="1080" alt="sum 3" src="https://github.com/user-attachments/assets/6ebbd981-c964-4422-805c-fc5cb63834dc" />
+
+
 ---
 
  If you found this project helpful, consider giving it a star!
